@@ -10,8 +10,8 @@
 
 ## Application shots
 ![image](https://github.com/pavithra-deepika/rothko-painting/blob/master/image/iamge.png)
+
 ## Learnt
- 
  - The box-shadow property attaches one or more shadows to an element.
  - Syntax [ offsetX offsetY blur spread color ]
  - offsetY : 
@@ -34,10 +34,9 @@
     - Applies a blur effect to the image. A larger value will create more blur.(px)
 
 
- 
-
 ## Deploy on Vercel
-https://cafe-menu-three.vercel.app/
+https://rothko-painting-jjw6nblsp-pavithra-deepika.vercel.app/
+
 ## Built by
 
 👤 **Bavithra**
