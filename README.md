@@ -9,8 +9,7 @@
 - Code Editor (like Visula Studio Code/ notepad)
 
 ## Application shots
-![image1](https://github.com/pavithra-deepika/cafe-menu/blob/main/image/image.png)
-
+![image](https://github.com/pavithra-deepika/rothko-painting/blob/master/image/iamge.png)
 ## Learnt
  
  - The box-shadow property attaches one or more shadows to an element.
