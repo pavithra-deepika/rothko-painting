@@ -1,29 +1,52 @@
-<h1 align="center"> FCC-1-CatPhotoApp </h1>
+<h1 align="center"> Rathko Paint </h1>
 
 ## Getting Started
 
-- It is a HTML project for exploring the deep basic understanding of HTML
+- It is a HTML project for exploring the deep basic understanding of HTML and CSS
 
 ## Tech stack:
 - browser
 - Code Editor (like Visula Studio Code/ notepad)
 
-## application shots
-![image1](https://github.com/pavithra-deepika/-CodeCamp-catPhotoAp/blob/main/image/image%201.png)
-![image1](https://github.com/pavithra-deepika/-CodeCamp-catPhotoAp/blob/main/image/image%202.png)
-![image1](https://github.com/pavithra-deepika/-CodeCamp-catPhotoAp/blob/main/image/iamge%203.png)
-![image1](https://github.com/pavithra-deepika/-CodeCamp-catPhotoAp/blob/main/image/iamge%204.png)
+## Application shots
+![image1](https://github.com/pavithra-deepika/cafe-menu/blob/main/image/image.png)
 
-##Steps
+## Learnt
+ 
+ - The box-shadow property attaches one or more shadows to an element.
+ - Syntax [ offsetX offsetY blur spread color ]
+ - offsetY : 
+    - The vertical offset of the shadow.A positive value puts the shadow below the box, a negative value puts the shadow above the box
+ - offsetX: 
+    - The horizontal offset of the shadow. A positive value puts the shadow on the right side of the box, a negative value puts the shadow on the left side of the box
+ - blur : 
+    - Optional. The blur radius. The higher the number, the more blurred the shadow.
 
-  * Add link to cat photos
-  * Add link to food cats love and thigs cate hate  Using <figure> and <figcaption> field using in section.
-  * Add cat form using form field and radio button , legend, label field using in section.
-  * submit button click next page open using form field set action tag.
+- spread:
+    - Optional. The spread radius. A positive value increases the size of the shadow, a negative value decreases the size of the shadow
+- color:
+    - Optional. The color of the shadow. The default value is the text color. Look at CSS Color Values for a complete list of possible color values
 
-## Deploy on Vercel:
-https://code-camp-cat-photo-khhc9knbg-pavithra-deepika.vercel.app/
+ - The border-radius property defines the radius of the element's corners.
+    syntax : 
+   -  Four values - border-radius: 15px 50px 30px 5px; (first value applies to top-left corner, second value applies to top-right corner, third value applies to bottom-right corner, and fourth value applies to bottom-left corner):
+ 
+ - filter(blur) 
+    - Applies a blur effect to the image. A larger value will create more blur.(px)
 
+
+ 
+
+## Deploy on Vercel
+https://cafe-menu-three.vercel.app/
 ## Built by
 
 👤 **Bavithra**
+
+
+
+
+
+
+
+
